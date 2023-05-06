@@ -20,6 +20,10 @@
     "socket.io": "^4.2.0"
   },
   "devDependencies": {
-    "nodemon": "1.18.10"
+    "nativescript-dev-webpack": "^1.5.1",
+    "nodemon": "1.18.10",
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.0.2",
+    "webpack-dev-server": "^4.13.3"
   }
 }
