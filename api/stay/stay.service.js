@@ -14,7 +14,7 @@ async function query(filterBy = {}) {
 
     const collection = await dbService.getCollection('stay');
     var stays = await collection.find(criteria).toArray();
-    // console.log('stay in backend service', stays);
+    console.log('stay in backend service', stays);
     return stays;
   } catch (err) {
     logger.error('cannot find stays', err);
