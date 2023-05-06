@@ -1,1 +1,6 @@
-Check it out at: https://travelandlive.vercel.app
+# Travel&Live
+End to end aplication, clone of 'airbnb'.
+build using React, Redux, Web-Sockets,
+Node.js, MongoDB, SCSS, Material-UI and more..
+
+Demo: https://travelandlive.vercel.app
